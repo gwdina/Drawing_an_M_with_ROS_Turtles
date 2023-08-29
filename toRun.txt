@@ -1,0 +1,1 @@
+To run script: rosrun dina_drawM turtlebuilder.py
